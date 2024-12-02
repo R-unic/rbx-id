@@ -1,6 +1,6 @@
 # id
 
-Utility classes for IDing objects
+Roblox utility classes for IDing objects
 
 ## UUID
 Generates a UUID
